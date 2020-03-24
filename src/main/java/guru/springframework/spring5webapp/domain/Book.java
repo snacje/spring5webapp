@@ -1,5 +1,7 @@
 package guru.springframework.spring5webapp.domain;
 
+import guru.springframework.spring5webapp.model.Publisher;
+
 import javax.persistence.*;
 import java.util.HashSet;
 import java.util.Set;
